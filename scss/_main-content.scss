@@ -1,0 +1,17 @@
+.main-content {
+    margin-left: 345px;
+    background-color: #F9F9F9;
+    font-family : 'Poppins', sans-serif;
+    z-index: 1;
+}
+
+  .content-wrapper {
+    display: grid;
+    padding-top: 37px;
+    padding-bottom: 25px;
+    grid-template-columns: repeat(2, 721px);
+    height: 100%;
+    justify-content: center;
+    column-gap: 35px;
+    row-gap: 38px;
+  }
